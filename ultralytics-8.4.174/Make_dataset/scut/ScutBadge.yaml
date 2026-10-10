@@ -1,0 +1,8 @@
+path: /home/adh-a-a/ultralytics/ultralytics-8.4.174/Make_dataset/scut/dataset
+train: images/train 
+val: images/val 
+test: 
+
+# Classes
+names:
+  0: ScutBadge
